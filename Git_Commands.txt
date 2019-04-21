@@ -1,0 +1,10 @@
+1) git init  -->  This will initialize the working folder
+
+2)  git add . -->  This will add all the files and changes to index
+
+3)  git commit - m "This the remarks"  -->  This will commint file to the branch
+
+4)  git branch text -->  This command creates new branch
+
+5) git branch -->>  This will display which branch you are working on 
+
