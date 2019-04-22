@@ -8,3 +8,6 @@
 
 5) git branch -->>  This will display which branch you are working on 
 
+6) git checkout test -->> checkout to branch test
+
+7)  git checkout -b test -->> create branch and move to branch
